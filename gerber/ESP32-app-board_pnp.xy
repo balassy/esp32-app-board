@@ -1,0 +1,94 @@
+# Pick And Place List
+# eMail=
+#
+# Project=ESP32-app-board
+# Date=15:15:25
+# CreatedBy=Fritzing 1.0.6.2025-10-07.CD-2239-0-04e5bb02
+#
+# Coordinates in mils, always center of component
+# Origin 0/0=Lower left corner of PCB. Rotation in degree (0-360, math. pos.)
+RefDes,Description,Package,X,Y,Rotation,Side,Mount
+Description: resistance;capacitance;inductance;voltage;current;power;mpn;mn;
+Via4,";;;;;;;;","",248,109.354,0,Top,MANUAL
+Pad1,";;;;;;;;","",400,177.918,0,Top,MANUAL
+Pad2,";;;;;;;;","",500,177.918,0,Top,MANUAL
+Pad3,";;;;;;;;","",600,177.918,0,Top,MANUAL
+Pad4,";;;;;;;;","",700,177.918,0,Top,MANUAL
+Pad5,";;;;;;;;","",800,177.918,0,Top,MANUAL
+Pad6,";;;;;;;;","",900,177.918,0,Top,MANUAL
+Pad7,";;;;;;;;","",1000,177.918,0,Top,MANUAL
+Pad8,";;;;;;;;","",1100,177.918,0,Top,MANUAL
+Via9,";;;;;;;;","",552,797.354,0,Top,MANUAL
+Pad9,";;;;;;;;","",1200,177.918,0,Top,MANUAL
+Pad10,";;;;;;;;","",1300,177.918,0,Top,MANUAL
+Via5,";;;;;;;;","",568,973.354,0,Top,MANUAL
+Via1,";;;;;;;;","",1032,525.354,0,Top,MANUAL
+Pad11,";;;;;;;;","",1400,177.918,0,Top,MANUAL
+Pad12,";;;;;;;;","",1500,177.918,0,Top,MANUAL
+Pad13,";;;;;;;;","",1600,177.918,0,Top,MANUAL
+Pad14,";;;;;;;;","",1700,177.918,0,Top,MANUAL
+Via2,";;;;;;;;","",1368,557.354,0,Top,MANUAL
+Via6,";;;;;;;;","",936,1021.35,0,Top,MANUAL
+Pad15,";;;;;;;;","",1800,177.918,0,Top,MANUAL
+Via10,";;;;;;;;","",1016,1005.35,0,Top,MANUAL
+Via8,";;;;;;;;","",1224,797.354,0,Top,MANUAL
+ESP32-WROOM-32,";;;;;;;;","",1017.39,1165.47,0,Top,MANUAL
+Pad37,";;;;;;;;","",2100,177.918,0,Top,MANUAL
+Pad38,";;;;;;;;","",2200,177.918,0,Top,MANUAL
+Pad16,";;;;;;;;","",400,1992.79,0,Top,MANUAL
+Via12,";;;;;;;;","",1624,797.354,0,Top,MANUAL
+Pad39,";;;;;;;;","",2300,177.918,0,Top,MANUAL
+Via3,";;;;;;;;","",1896,589.354,0,Top,MANUAL
+Pad17,";;;;;;;;","",500,1992.79,0,Top,MANUAL
+Pad40,";;;;;;;;","",2400,177.918,0,Top,MANUAL
+Pad18,";;;;;;;;","",600,1992.79,0,Top,MANUAL
+Pad41,";;;;;;;;","",2500,177.918,0,Top,MANUAL
+Pad19,";;;;;;;;","",700,1992.79,0,Top,MANUAL
+Pad42,";;;;;;;;","",2600,177.918,0,Top,MANUAL
+Pad20,";;;;;;;;","",800,1992.79,0,Top,MANUAL
+Pad21,";;;;;;;;","",900,1992.79,0,Top,MANUAL
+Pad22,";;;;;;;;","",1000,1992.79,0,Top,MANUAL
+Via11,";;;;;;;;","",1960,1101.35,0,Top,MANUAL
+Pad23,";;;;;;;;","",1100,1992.79,0,Top,MANUAL
+Pad24,";;;;;;;;","",1200,1992.79,0,Top,MANUAL
+Pad25,";;;;;;;;","",1300,1992.79,0,Top,MANUAL
+Pad26,";;;;;;;;","",1400,1992.79,0,Top,MANUAL
+Pad27,";;;;;;;;","",1500,1992.79,0,Top,MANUAL
+Pad28,";;;;;;;;","",1600,1992.79,0,Top,MANUAL
+Via7,";;;;;;;;","",2248,1421.35,0,Top,MANUAL
+Pad29,";;;;;;;;","",1700,1992.79,0,Top,MANUAL
+Buzzer,";;;;;;;;","",2451.59,1336.11,0,Top,MANUAL
+Pad30,";;;;;;;;","",1800,1992.79,0,Top,MANUAL
+Pad31,";;;;;;;;","",1900,1992.79,0,Top,MANUAL
+Pad32,";;;;;;;;","",2000,1992.79,0,Top,MANUAL
+Pad36,";;;;;;;;","",2500,1992.79,0,Top,MANUAL
+Pad35,";;;;;;;;","",2600,1992.79,0,Top,MANUAL
+Pad34,";;;;;;;;","",2700,1992.79,0,Top,MANUAL
+Pad33,";;;;;;;;","",2800,1992.79,0,Top,MANUAL
+ZS-042,";;;;;;;;","",3588.27,1382.64,180,Top,MANUAL
+Btn,";;;;;;;;","tactile-pth",2253.43,1807.35,90,Top,SMT
+3V3,";;;;;;;;","THT",400,385.354,180,Top,THT
+GND,";;;;;;;;","THT",500,385.354,180,Top,THT
++5V,";;;;;;;;","THT",950,335.354,90,Top,THT
+Ports,";;;;;;;;","THT",1100,235.354,90,Top,THT
+GND,";;;;;;;;","THT",950,435.354,90,Top,THT
+R12,"100;;;;;0.25W;;;","THT",500,935.354,0,Top,THT
+R13,"100;;;;;0.25W;;;","THT",500,1335.35,0,Top,THT
+LED,";;;;;;;;","THT",1500,435.354,90,Top,THT
+R14,"100;;;;;0.25W;;;","THT",900,1135.35,0,Top,THT
+R27,"100;;;;;0.25W;;;","THT",1300,935.354,0,Top,THT
+LED,";;;;0.030A;;;;","5 mm [THT]",1836.31,435.357,0,Top,THT
+R26,"100;;;;;0.25W;;;","THT",1300,1335.35,0,Top,THT
+Matrix6,";;;;;;;;","THT",2100,585.354,180,Top,THT
+Matrix5,";;;;;;;;","THT",2200,585.354,180,Top,THT
+Matrix4,";;;;;;;;","THT",2300,585.354,180,Top,THT
+GND,";;;;;;;;","THT",2700,235.354,90,Top,THT
+Matrix3,";;;;;;;;","THT",2400,585.354,180,Top,THT
+Ports,";;;;;;;;","THT",1100,1935.35,90,Top,THT
+Matrix2,";;;;;;;;","THT",2500,585.354,180,Top,THT
+Matrix1,";;;;;;;;","THT",2600,585.354,180,Top,THT
++5V,";;;;;;;;","THT",2700,735.354,90,Top,THT
+Vin,";;;;;;;;","THT",2973.02,593.658,-90,Top,THT
+3V3,";;;;;;;;","THT",2700,935.354,90,Top,THT
+Button,";;;;;;;;","THT",1950,1935.35,90,Top,THT
+I2C,";;;;;;;;","THT",2650,1935.35,-90,Top,THT
