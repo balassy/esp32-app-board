@@ -108,6 +108,10 @@ The latest Gerber files to manufacture the PCB is available in the [gerber](./ge
 
 To re-generate them in Fritzing click File --> Export --> for Production --> Extended Gerber, then select the [gerber](./gerber/) folder.
 
+## Known issues
+
+For known issues see the [GitHub Issues](https://github.com/balassy/esp32-app-board/issues) of this project.
+
 ## About the author
 
 This project is created and maintained by [György Balássy](https://www.linkedin.com/in/balassy).
