@@ -4,15 +4,9 @@ A custom PCB designed to quickly start projects based on the ESP32-WROOM-32 modu
 
 ![Photo](<./photo.jpg>)
 
-Top view:
-
-![Preview top](<./preview-top.jpg>)
-
-Bottom view:
-
-![Preview bottom](<./preview-bottom.jpg>)
-
 ## Features
+
+![Features](<./features.png>)
 
 - Socket for the ESP32-WROOM-32 module.
 - Separate pin headers for all 30 pins of the ESP32-WROOM-32 module with large solder pads on the top layer.
@@ -39,6 +33,16 @@ Bottom view:
 - I2C: SDA D21, SCL D22. 
 
 Which pin to use? Read more: https://randomnerdtutorials.com/esp32-pinout-reference-gpios/
+
+## PCB
+
+Top view:
+
+![Preview top](<./preview-top.jpg>)
+
+Bottom view:
+
+![Preview bottom](<./preview-bottom.jpg>)
 
 ## Wiring
 
