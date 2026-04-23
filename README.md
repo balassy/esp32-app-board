@@ -53,7 +53,7 @@ The Fusion 360 model in the [3d](./3d/) folder contains these dimensions.
 - [source](./source/): The original, editable source file of this PCB, created with Fritzing.
 - [parts](./parts/): The custom Fritzing parts used to build this board.
 - [gerber](./gerber/): The Fritzing-generated Gerber files that can be used to manufacture the PCB. 
-- [3d](./3d/): Fusion 360 model used to generate the dimension drawing. You can use it to build a custom case for this panel.
+- [3d](./3d/): Fusion 360 models used to generate the dimension drawing, and a 3D printable stand. You can use it to build a custom case for this panel.
 
 
 ## Parts used
