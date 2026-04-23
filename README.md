@@ -1,8 +1,14 @@
 # ESP32 App Board
 
-A custom PCB designed to quickly start projects based on the ESP32-WROOM-32 module.
+A custom PCB designed to quickly start projects based on the ESP32-WROOM-32 module. It's bigger than a fully customized PCB, but smaller than a generic ESP32 breakout board.
+
+![Photo](<./photo.jpg>)
+
+Top view:
 
 ![Preview top](<./preview-top.jpg>)
+
+Bottom view:
 
 ![Preview bottom](<./preview-bottom.jpg>)
 
